@@ -41,14 +41,6 @@ A substring is considered a valid number if:
 | `34363`  | ❌ No  | Contains an extra `3` inside |
 | `95a9`   | ❌ No  | Contains a letter |
 
----
 
-## Example Input
-```txt
-<p align="center">
-  <img width="371" height="487"
-       alt="Example console output with highlighted numbers"
-       src="https://github.com/user-attachments/assets/5421f52f-87a6-4e48-9cf6-d61e406b6f36" />
-</p>```
 
 
