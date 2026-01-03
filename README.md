@@ -41,6 +41,8 @@ A substring is considered a valid number if:
 | `34363`  | ❌ No  | Contains an extra `3` inside |
 | `95a9`   | ❌ No  | Contains a letter |
 
-![Example output] (https://github.com/ZgStn/Labb1Algoritmer/blob/7bdce836e4eaef0a131f4c4e92494a922af42292/Exempel%20output%20for%20input.jpg)
+![Example output](Exempel output for input.jpg)
+
+
 
 
